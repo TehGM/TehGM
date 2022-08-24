@@ -1,4 +1,4 @@
-## My programing 💻
+## My programming 💻
 I started programming in secondary school - roughly 11 or 12 years ago. I focus on C# - I am an ASP.NET Core developer by profession, and for hobby I like to develop libraries and bots - but I do often utilize my ASP.NET Core knowledge in many of my personal projects as well.  
 I am very good-practices oriented - I try to make all of my code follow best practices where possible, and follow C# standards.
 
