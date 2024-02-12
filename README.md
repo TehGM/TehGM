@@ -18,7 +18,7 @@ I currently own Zona, Deep Rock Galactic and ISS Vangaurd. I also already backed
 
 ### Music?
 I am not a musician, but like everyone I like to listen to some music.  
-Genre of choice? Of course metal. 🤘
+Genre of choice? Of course metal. 🤘  
 Fav bands? Well, there's a plenty, but if I was to pick my all-time favourite, it'd be Godsmack (which ironically is more hard rock than metal).
 
 ## More? 💡
