@@ -16,7 +16,7 @@ I also love board games!
 I am a firm believer that board games just hit different, and there's no way to reproduce that vibe on a PC screen, even on LAN parties.  
 I currently own Zona, Deep Rock Galactic and ISS Vangaurd. I also already backed S.T.A.L.K.E.R, EVE: War for New Eden, as well as new expansions for Deep Rock Galactic.
 
-### Music?
+### Music? 🎸
 I am not a musician, but like everyone I like to listen to some music.  
 Genre of choice? Of course metal. 🤘  
 Fav bands? Well, there's a plenty, but if I was to pick my all-time favourite, it'd be Godsmack (which ironically is more hard rock than metal).
