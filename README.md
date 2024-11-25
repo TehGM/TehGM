@@ -10,7 +10,7 @@ Besides C#, I can also develop with JS, Python or Java if needed (once I look up
 I also am a gamer by hobby - gaming is what got me into programming at all! 
 
 **X series** are my favourite - nothing like living in space.  
-Other games that I'd highlight as ones I really like are **Spyro** trilogy (I mean, it's literally my childhood!), **Path of Exile**, **Bullets Per Minute**, **Stellaris**, **Dyson Sphere Program** or **S.T.A.L.K.E.R** and its mods and spinoffs (like Anomaly or StalCraft)... and ofc more!
+Other games that I'd highlight as ones I really like are **Spyro** trilogy (I mean, it's literally my childhood!), **Path of Exile**, **Bullets Per Minute**, **Stellaris**, **Dyson Sphere Program** or **S.T.A.L.K.E.R** and its mods and spinoffs (like Anomaly or Stalcraft)... and ofc more!
 
 #### Space (!)
 Speaking of X series, Dyson Sphere Program and Stellaris, I also am interested in science fiction and outer space. I might not do a lot of research in this field, but if something is set in space, it is guaranteed to catch my attention - and likely that I'll sink more time into it!
@@ -21,7 +21,7 @@ It's also on my backlog to read... I already have the books, I probably should g
 #### Board Games
 I am a firm believer that board games just hit different, and there's no way to reproduce that vibe on a PC screen, even on LAN parties.
 
-I currently own **Zona**, **Deep Rock Galactic** and **ISS Vangaurd**. I also already backed **S.T.A.L.K.E.R**, **EVE: War for New Eden**, as well as new expansions for **Deep Rock Galactic**.
+I currently own **Zona**, **Deep Rock Galactic** (including all expansions) and **ISS Vangaurd**. I also already backed **S.T.A.L.K.E.R** and **EVE: War for New Eden**.
 
 ### Music? 🎸
 I am not a musician, but like everyone I like to listen to some music.  
