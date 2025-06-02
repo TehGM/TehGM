@@ -2,6 +2,8 @@
 I started programming in secondary school - roughly 15 or 16 years ago. I focus on C# - I am an ASP.NET Core developer by profession, and for hobby I like to develop libraries and bots - but I do often utilize my ASP.NET Core knowledge in many of my personal projects as well.  
 I am very good-practices oriented - I try to make all of my code follow best practices where possible, and follow C# standards.
 
+I also run a website called [StalcraftHQ](https://stalcrafthq.com)
+
 ### Languages 💬
 Besides C#, I can also develop with JS, Python or Java if needed (once I look up for some syntax reminders!)
 
@@ -10,7 +12,7 @@ Besides C#, I can also develop with JS, Python or Java if needed (once I look up
 I also am a gamer by hobby - gaming is what got me into programming at all! 
 
 **X series** are my favourite - nothing like living in space.  
-Other games that I'd highlight as ones I really like are **Spyro** trilogy (I mean, it's literally my childhood!), **Path of Exile**, **Bullets Per Minute**, **Stellaris**, **Dyson Sphere Program** or **S.T.A.L.K.E.R** and its mods and spinoffs (like Anomaly or Stalcraft)... and ofc more!
+Other games that I'd highlight as ones I really like are **Spyro** trilogy (I mean, it's literally my childhood!), **Path of Exile**, **Bullets Per Minute**, **Stellaris**, **Dyson Sphere Program**, **Escape from Tarkov** or **S.T.A.L.K.E.R** and its mods and spinoffs (like Anomaly or Stalcraft)... and ofc more!
 
 #### Space (!)
 Speaking of X series, Dyson Sphere Program and Stellaris, I also am interested in science fiction and outer space. I might not do a lot of research in this field, but if something is set in space, it is guaranteed to catch my attention - and likely that I'll sink more time into it!
