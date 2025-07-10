@@ -2,8 +2,19 @@
 I started programming in secondary school - roughly 15 or 16 years ago. I focus on C# - I am an ASP.NET Core developer by profession, and for hobby I like to develop libraries and bots - but I do often utilize my ASP.NET Core knowledge in many of my personal projects as well.  
 I am very good-practices oriented - I try to make all of my code follow best practices where possible, and follow C# standards.
 
-I also run a [StalcraftHQ](https://stalcrafthq.com) - a highly popular website for tracking clans, players, emissions and much more for a MMOFPS game [Stalcraft](https://store.steampowered.com/app/1818450/STALCRAFT_X/).  
+### Project highlights - Closed Source
+- [StalcraftHQ](https://stalcrafthq.com) - a highly popular website for tracking clans, players, emissions and much more for a MMOFPS game [Stalcraft](https://store.steampowered.com/app/1818450/STALCRAFT_X/).  
 StalcraftHQ is built with ASP.NET Core and Blazor, and is currently the main project I am working on.
+- [SnipLink](https://beta.sniplink.net/) - a ASP.NET Core-based link shortener, designed to generate short links that expire after set time.
+
+### Project highlights - Open Source
+- [Wolfringo](https://github.com/TehGM/Wolfringo) - a strongly typed, extensible .NET library for building bots for WOLF (previously known as Palringo).
+- [Randominator](https://github.com/TehGM/Randominator) - a fun Blazor website with random generators for random stuff, running entirely in browser thanks to Blazor.
+- [fsriev](https://github.com/TehGM/fsriev) - a simple but highly customizable file watcher for Windows and Linux.
+- [Einherji](https://github.com/TehGM/EinherjiBot) - a Discord bot built purely for administrative needs for me and my friends.
+- [Pic Size Bot for WOLF](https://github.com/TehGM/WolfBot-Size) - a bot aiding users with submitting and moderating content for WOLF in-app games.
+
+I also have some other public repositories - feel free to check them to see my other work!
 
 ### Languages 💬
 Besides C#, I can also develop with JS, Python or Java if needed (once I look up for some syntax reminders!)
