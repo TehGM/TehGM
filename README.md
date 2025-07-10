@@ -2,12 +2,12 @@
 I started programming in secondary school - roughly 15 or 16 years ago. I focus on C# - I am an ASP.NET Core developer by profession, and for hobby I like to develop libraries and bots - but I do often utilize my ASP.NET Core knowledge in many of my personal projects as well.  
 I am very good-practices oriented - I try to make all of my code follow best practices where possible, and follow C# standards.
 
-### Project highlights - Closed Source
+#### Project highlights - Closed Source
 - [StalcraftHQ](https://stalcrafthq.com) - a highly popular website for tracking clans, players, emissions and much more for a MMOFPS game [Stalcraft](https://store.steampowered.com/app/1818450/STALCRAFT_X/).  
 StalcraftHQ is built with ASP.NET Core and Blazor, and is currently the main project I am working on.
 - [SnipLink](https://beta.sniplink.net/) - a ASP.NET Core-based link shortener, designed to generate short links that expire after set time.
 
-### Project highlights - Open Source
+#### Project highlights - Open Source
 - [Wolfringo](https://github.com/TehGM/Wolfringo) - a strongly typed, extensible .NET library for building bots for WOLF (previously known as Palringo).
 - [Randominator](https://github.com/TehGM/Randominator) - a fun website with random generators for random stuff, running entirely in browser thanks to Blazor.
 - [fsriev](https://github.com/TehGM/fsriev) - a simple but highly customizable file watcher for Windows and Linux.
