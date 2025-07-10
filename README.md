@@ -9,7 +9,7 @@ StalcraftHQ is built with ASP.NET Core and Blazor, and is currently the main pro
 
 ### Project highlights - Open Source
 - [Wolfringo](https://github.com/TehGM/Wolfringo) - a strongly typed, extensible .NET library for building bots for WOLF (previously known as Palringo).
-- [Randominator](https://github.com/TehGM/Randominator) - a fun Blazor website with random generators for random stuff, running entirely in browser thanks to Blazor.
+- [Randominator](https://github.com/TehGM/Randominator) - a fun website with random generators for random stuff, running entirely in browser thanks to Blazor.
 - [fsriev](https://github.com/TehGM/fsriev) - a simple but highly customizable file watcher for Windows and Linux.
 - [Einherji](https://github.com/TehGM/EinherjiBot) - a Discord bot built purely for administrative needs for me and my friends.
 - [Pic Size Bot for WOLF](https://github.com/TehGM/WolfBot-Size) - a bot aiding users with submitting and moderating content for WOLF in-app games.
