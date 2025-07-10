@@ -3,7 +3,7 @@ I started programming in secondary school - roughly 15 or 16 years ago. I focus 
 I am very good-practices oriented - I try to make all of my code follow best practices where possible, and follow C# standards.
 
 I also run a [StalcraftHQ](https://stalcrafthq.com) - a highly popular website for tracking clans, players, emissions and much more for a MMOFPS game [Stalcraft](https://store.steampowered.com/app/1818450/STALCRAFT_X/).  
-StalcraftHQ is built with ASP.NET Core and Blazor.
+StalcraftHQ is built with ASP.NET Core and Blazor, and is currently the main project I am working on.
 
 ### Languages 💬
 Besides C#, I can also develop with JS, Python or Java if needed (once I look up for some syntax reminders!)
